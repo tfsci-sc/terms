@@ -6,5 +6,6 @@
 
 英文原词 | 中文待定翻译
 --- | ---
-Transfeminine | 女性倾向跨性别者
+Transfeminine people | 女性倾向跨性别者
 Hormonal profile | 激素状况
+Transfeminine hormone therapy | 女性化激素治疗
