@@ -1,7 +1,7 @@
 # terms
 Translations of non-consensus terms used in this project
 
-## About/ 关于
+## 关于/ About
 
 本项目中用到的暂无社区共识的专有词汇的翻译列表，可能会更改。
 
