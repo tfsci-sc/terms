@@ -6,6 +6,7 @@
 
 英文原词 | 中文待定翻译
 --- | ---
-Transfeminine people | 女性倾向跨性别者
+GAH therapy/Gender-Affirming Hormone therapy | 性别肯定激素治疗
 Hormonal profile | 激素状况
 Transfeminine hormone therapy | 女性化激素治疗
+Transfeminine people | 女性倾向跨性别者
